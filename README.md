@@ -13,6 +13,8 @@ node server.js
 2. 协商缓存demo:
 
 `localhost:3333/cache2`
+# 参考 https://juejin.cn/post/7063768338844876814
+
 
 # 浏览器缓存
 
